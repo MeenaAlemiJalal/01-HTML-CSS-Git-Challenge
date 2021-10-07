@@ -1,2 +1,4 @@
-# UCD-VIRT-BO-FSF-PT-09-2021-U-B
+# 01-html-css-Git-Challenge
+this is the first challenge for html css and git basics. 
+The url for live static html page is https://meenaalemijalal.github.io/01-HTML-CSS-Git-Challenge/index.html 
 
